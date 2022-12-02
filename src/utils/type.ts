@@ -1,5 +1,4 @@
 export type Menu = {
-  id: number;
   lift: string;
   resistance: number;
   count: number;
